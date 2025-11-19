@@ -1,4 +1,4 @@
-<h1>Flutter Developer | Firebase Enthusiast | Backend Curious | Lifelong Learner</h1>
+<h1>Flutter Developer | Android Developer | AppSec Curious | Lifelong Learner</h1>
 <p>- 🔭 I’m currently a **Flutter Developer Intern** at **Kartavya Technologies** - 🌱 I know **BLoC**, **Riverpod**, and advanced **Firebase integrations** - 🧩 I’ve built apps like **Baatein (chat app)**, **WorldTime**, **Event management app**, **Business/Employee Management app(Ophiz)**, and more - 👯 I love building **UI-rich mobile apps** and integrating **backend services** - 💬 Ask me about **Flutter**, **Firebase**, or **clean architecture** - 📫 Reach me at: `tarun22kumar2@gmail.com` - 🌐 Visit my portfolio (coming soon...)</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
